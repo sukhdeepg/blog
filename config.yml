@@ -46,7 +46,7 @@ outputs:
 
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    description: "Sukhdeep's blog"
+    description: "Blog"
     # author: Sukhdeep
     # author: ["Me", "You"] # multiple authors
 
@@ -77,10 +77,10 @@ params:
             - name: Tags
               url: tags
 
-    homeInfoParams:
-        Title: "Welcome!"
-        Content: >
-            I write about topics that were difficult for me in my learning process.
+    # homeInfoParams:
+        # Title: "Welcome!"
+        # Content: >
+        #     I write about topics that were difficult for me in my learning process.
     socialIcons:
         - name: github
           url: "https://github.com/sukhdeepg"
