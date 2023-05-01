@@ -1,5 +1,5 @@
 ---
-title: "Understanding SOLID Principles with examples in Python"
+title: "SOLID Principles with examples in Python"
 date: 2023-03-21T23:07:07+05:30
 draft: false
 showToc: true
