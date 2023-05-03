@@ -5,7 +5,7 @@ draft: false
 showToc: false
 TocOpen: false
 cover:
-    image: img/factory_method.jpeg
+    image: img/factory_method.png
     alt: "factory_method"
 tags: ["fundamentals", "low-level-design", "design patterns"]
 ---
