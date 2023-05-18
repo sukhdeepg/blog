@@ -1,5 +1,5 @@
 ---
-title: "Prototype"
+title: "Prototype with examples in Python"
 date: 2023-05-12T14:33:06+05:30
 draft: false
 showToc: false
