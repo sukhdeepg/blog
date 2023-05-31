@@ -13,7 +13,7 @@ tags: ["fundamentals", "low-level-design", "design patterns"]
 The Factory Method is a creational design pattern which is great for managing object creation in a clean, modular, and scalable way. It promotes loose coupling and code reusability. This pattern comes handy when we have multiple object types with a shared interface or base class, and we want to create new objects based on a given parameter without hardcoding the exact classes.
 
 What exactly does factory mean?
-"Factory" refers to an object that is responsible for creating another object.
+"Factory" refers to an object that is responsible for creating another object. In real world factories, we input raw materials and design specfication and we get goods as an output. Here, we input a type or a set of parameters and we get an object as an output.
 <br/>
 
 Let's understand the above with an example:
