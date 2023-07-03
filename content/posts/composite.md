@@ -7,7 +7,7 @@ TocOpen: false
 cover:
     image: img/composite.png
     alt: "composite"
-tags: ["fundamentals", "low-level-design", "design patterns"]
+tags: ["design-patterns"]
 ---
 
 The Composite Design Pattern is a structural design pattern that lets us compose objects into tree structures to represent part-whole hierarchies.

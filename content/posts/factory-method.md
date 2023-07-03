@@ -7,7 +7,7 @@ TocOpen: false
 cover:
     image: img/factory_method.png
     alt: "factory_method"
-tags: ["fundamentals", "low-level-design", "design patterns"]
+tags: ["design-patterns"]
 ---
 
 The Factory Method is a creational design pattern which is great for managing object creation in a clean, modular, and scalable way. It promotes loose coupling and code reusability. This pattern comes handy when we have multiple object types with a shared interface or base class, and we want to create new objects based on a given parameter without hardcoding the exact classes.

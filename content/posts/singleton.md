@@ -7,7 +7,7 @@ TocOpen: false
 cover:
     image: img/singleton.png
     alt: "singleton"
-tags: ["fundamentals", "low-level-design", "design patterns"]
+tags: ["design-patterns"]
 ---
 
 Singleton design pattern is a type of creational pattern which we use when we need to provide global access to an object. Basically, a class will only have one object.

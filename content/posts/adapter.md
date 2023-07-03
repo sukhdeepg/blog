@@ -7,7 +7,7 @@ TocOpen: false
 cover:
     image: img/adapter.png
     alt: "adapter"
-tags: ["fundamentals", "low-level-design", "design patterns"]
+tags: ["design-patterns"]
 ---
 
 The adapter design pattern is a structural design pattern that allows objects that don't initially know how to interact with each other (due to differences in their communication methods) to still cooperate. This pattern introduces a wrapper class (an "adapter") which translates the interface of one class into an interface expected by clients.

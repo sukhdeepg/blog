@@ -7,7 +7,7 @@ TocOpen: false
 cover:
     image: img/builder.png
     alt: "builder"
-tags: ["fundamentals", "low-level-design", "design patterns"]
+tags: ["design-patterns"]
 ---
 
 The Builder design pattern is a method for constructing complex objects step-by-step, allowing you to create different configurations or variations of the object without altering the main class representing the object. It simplifies object creation by providing a clear and flexible way to build objects with multiple options or components.

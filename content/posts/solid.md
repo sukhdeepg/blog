@@ -7,7 +7,7 @@ TocOpen: true
 cover:
     image: img/solid_principles.png
     alt: "solid_principles"
-tags: ["fundamentals", "low-level-design"]
+tags: ["solid-principles"]
 ---
 
 When we start our programming journey, with continuous practice and learning, writing code becomes easier. But, as we advance in our careers, it becomes equally important to learn how to maintain and help others maintain what we are writing.

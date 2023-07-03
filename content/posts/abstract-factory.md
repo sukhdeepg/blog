@@ -7,7 +7,7 @@ TocOpen: false
 cover:
     image: img/abstract_factory.png
     alt: "abstract_factory"
-tags: ["fundamentals", "low-level-design", "design patterns"]
+tags: ["design-patterns"]
 ---
 
 Abstract Factory is a creational design pattern that helps create groups of related objects without knowing their specific classes. It's particularly useful when we need to create objects that belong to a family, but we don't care about the specific implementation.

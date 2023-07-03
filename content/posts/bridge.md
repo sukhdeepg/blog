@@ -7,7 +7,7 @@ TocOpen: false
 cover:
     image: img/bridge.png
     alt: "bridge"
-tags: ["fundamentals", "low-level-design", "design patterns"]
+tags: ["design-patterns"]
 ---
 
 The Bridge Design Pattern is a structural design pattern that aims to separate what a system does from how it does it, so we can change the 'what' and the 'how' independently.
