@@ -34,10 +34,10 @@ class CarProxy:
 
 # Usage
 young_driver = CarProxy(driver_age=16)
-young_driver.drive()  # Output: Sorry, the driver is too young to drive.
+young_driver.drive()
 
 adult_driver = CarProxy(driver_age=25)
-adult_driver.drive()  # Output: Car has been driven
+adult_driver.drive()
 ```
 
 In this example, the `CarProxy` controls access to the `Car`'s drive method based on the driver's age, acting as a protective proxy.
