@@ -31,10 +31,19 @@ languages:
                 #   weight: 5
                 - name: Search
                   url: search/
-                  weight: 10
+                  weight: 4
                 - name: Tags
                   url: tags/
-                  weight: 2 0
+                  weight: 5
+                - name: "Design Patterns"
+                  url: "/design-patterns/"
+                  weight: 1
+                - name: "Annotated Papers"
+                  url: "/annotated-research-papers/"
+                  weight: 2
+                - name: "Engineering Blogs"
+                  url: "/engineering-blogs/"
+                  weight: 3
                 # - name: WiKi
                 #   url:
 
@@ -77,10 +86,14 @@ params:
             - name: Tags
               url: tags
 
-    # homeInfoParams:
-        # Title: "Welcome!"
-        # Content: >
-        #     I write about topics that were difficult for me in my learning process.
+    homeInfoParams:
+        Title: "Hi there, I'm Sukhdeep 👋"
+        Content: >
+          I'm a software engineer specializing in backend engineering with a keen interest in system architecture.  
+
+          I share insights and write about various engineering topics on [X](https://x.com/sgillnotes). Additionally, I maintain this blog where I write technical posts about what I've recently learned, aiming to explain concepts in a simple manner so that beginners can easily grasp them.  
+
+          To stay updated with the latest advancements, I actively read engineering blogs and ML-related research papers.  
     socialIcons:
         - name: github
           url: "https://github.com/sukhdeepg"
@@ -151,3 +164,8 @@ services:
         disableInlineCSS: true
     witter:
         disableInlineCSS: true
+
+permalinks:
+  posts: "/design-patterns/:slug/"
+  annotated-research-papers: "/annotated-research-papers/:slug/"
+  engineering-blogs: "/engineering-blogs/:slug/"
