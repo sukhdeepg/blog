@@ -24,3 +24,4 @@ tags: ["engineering-blogs"]
        - Enhancing deployment infrastructure for better predictability and efficiency.
        - Reducing latency and wasted tokens in the pipeline.
 * [Building Meta’s GenAI Infrastructure](https://engineering.fb.com/2024/03/12/data-center-engineering/building-metas-genai-infrastructure/)
+* [Shepherd: How Stripe adapted Chronon to scale ML feature development](https://stripe.com/blog/shepherd-how-stripe-adapted-chronon-to-scale-ml-feature-development)
