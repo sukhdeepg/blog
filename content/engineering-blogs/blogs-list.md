@@ -28,3 +28,12 @@ tags: ["engineering-blogs"]
 * [How Stripe’s document databases supported 99.999% uptime with zero-downtime data migrations](https://stripe.com/blog/how-stripes-document-databases-supported-99.999-uptime-with-zero-downtime-data-migrations)
 * [How data is powering skills-based hiring on LinkedIn](https://www.linkedin.com/blog/engineering/talent/how-data-is-powering-skills-based-hiring-on-linkedin)
 * [Developing Rapidly With Generative AI](https://discord.com/blog/developing-rapidly-with-generative-ai)
+    1. This blog shares a structured approach to utilizing generative AI effectively.
+    2. **Stages:** Ideation, defining requirements, prototyping, learning, and deploying at scale.
+    3. **Iterative Process:** Continuous feedback loops during prototyping and learning.
+    4. Considering latency, task complexity, prompt length, quality, safety, language support, and throughput.
+    5. Balancing model size and response time against quality and cost.
+    6. Using advanced commercial LLMs (e.g. ChatGPT) for initial validation and feedback. Reason being if state of the art LLMs cannot justify the use case being solved, then the direction needs to be checked.
+    7. **Architecture:** Includes API gateway, LLM inference server, and content safety measures.
+    8. Balancing cost, privacy, and performance between commercial and self-hosted models.
+    9. Open-source models offer quality but may need fine-tuning and robust infrastructure.
