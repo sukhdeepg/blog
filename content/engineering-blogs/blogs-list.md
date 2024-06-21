@@ -37,3 +37,4 @@ tags: ["engineering-blogs"]
     7. **Architecture:** Includes API gateway, LLM inference server, and content safety measures.
     8. Balancing cost, privacy, and performance between commercial and self-hosted models.
     9. Open-source models offer quality but may need fine-tuning and robust infrastructure.
+* [How We Built Slack AI To Be Secure and Private](https://slack.engineering/how-we-built-slack-ai-to-be-secure-and-private/)
