@@ -38,3 +38,4 @@ tags: ["engineering-blogs"]
     8. Balancing cost, privacy, and performance between commercial and self-hosted models.
     9. Open-source models offer quality but may need fine-tuning and robust infrastructure.
 * [How We Built Slack AI To Be Secure and Private](https://slack.engineering/how-we-built-slack-ai-to-be-secure-and-private/)
+* [Video annotator: a framework for efficiently building video classifiers using vision-language models and active learning](https://netflixtechblog.com/video-annotator-building-video-classifiers-using-vision-language-models-and-active-learning-8ebdda0b2db4)
