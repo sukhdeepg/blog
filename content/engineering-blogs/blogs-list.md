@@ -40,3 +40,4 @@ tags: ["engineering-blogs"]
 * [How We Built Slack AI To Be Secure and Private](https://slack.engineering/how-we-built-slack-ai-to-be-secure-and-private/)
 * [Video annotator: a framework for efficiently building video classifiers using vision-language models and active learning](https://netflixtechblog.com/video-annotator-building-video-classifiers-using-vision-language-models-and-active-learning-8ebdda0b2db4)
 * [How Meta built Threads in 5 months](https://engineering.fb.com/2023/11/06/android/how-meta-built-threads-in-5-months/)
+* [Upgrading Uber’s MySQL Fleet  to version 8.0](https://www.uber.com/en-IN/blog/upgrading-ubers-mysql-fleet/?uclick_id=112f275b-5b0e-43cf-8d19-8333823b3830)
