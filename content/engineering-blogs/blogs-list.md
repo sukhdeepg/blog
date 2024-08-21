@@ -42,3 +42,4 @@ tags: ["engineering-blogs"]
 * [How Meta built Threads in 5 months](https://engineering.fb.com/2023/11/06/android/how-meta-built-threads-in-5-months/)
 * [Upgrading Uber’s MySQL Fleet  to version 8.0](https://www.uber.com/en-IN/blog/upgrading-ubers-mysql-fleet/?uclick_id=112f275b-5b0e-43cf-8d19-8333823b3830)
 * [DoorDash Empowers Engineers with Kafka Self-Serve](https://doordash.engineering/2024/08/13/doordash-engineers-with-kafka-self-serve/)
+* [How DoorDash Standardized and Improved Microservices Caching](https://doordash.engineering/2023/10/19/how-doordash-standardized-and-improved-microservices-caching/)
