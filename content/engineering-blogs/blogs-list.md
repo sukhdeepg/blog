@@ -24,3 +24,4 @@ tags: ["engineering-blogs"]
 * [How DoorDash Standardized and Improved Microservices Caching](https://doordash.engineering/2023/10/19/how-doordash-standardized-and-improved-microservices-caching/)
 * [Implementing end-to-end encryption for Dropbox teams](https://dropbox.tech/security/end-to-end-encryption-for-dropbox-teams) - [Summary](https://x.com/sgillnotes/status/1827413704222371881)
 * [Evolving from Rule-based Classifier: Machine Learning Powered Auto Remediation in Netflix Data Platform](https://netflixtechblog.com/evolving-from-rule-based-classifier-machine-learning-powered-auto-remediation-in-netflix-data-039d5efd115b) - [Summary](https://x.com/sgillnotes/status/1766026815767031997)
+* [Real-time mouse pointers](https://www.canva.dev/blog/engineering/realtime-mouse-pointers/)
