@@ -12,7 +12,7 @@ tags: ["engineering-blogs"]
 
 * [Musings on building a Generative AI product](https://www.linkedin.com/blog/engineering/generative-ai/musings-on-building-a-generative-ai-product) - [Summary](https://x.com/sgillnotes/status/1829920728738603043)
 * [Building Meta’s GenAI Infrastructure](https://engineering.fb.com/2024/03/12/data-center-engineering/building-metas-genai-infrastructure/) - [Summary](https://x.com/sgillnotes/status/1857682386882023701)
-* [Shepherd: How Stripe adapted Chronon to scale ML feature development](https://stripe.com/blog/shepherd-how-stripe-adapted-chronon-to-scale-ml-feature-development)
+* [Shepherd: How Stripe adapted Chronon to scale ML feature development](https://stripe.com/blog/shepherd-how-stripe-adapted-chronon-to-scale-ml-feature-development) - [Summary](https://x.com/sgillnotes/status/1858050312721858747)
 * [How Stripe’s document databases supported 99.999% uptime with zero-downtime data migrations](https://stripe.com/blog/how-stripes-document-databases-supported-99.999-uptime-with-zero-downtime-data-migrations) - [Summary](https://x.com/sgillnotes/status/1802031075662651508)
 * [How data is powering skills-based hiring on LinkedIn](https://www.linkedin.com/blog/engineering/talent/how-data-is-powering-skills-based-hiring-on-linkedin)
 * [Developing Rapidly With Generative AI](https://discord.com/blog/developing-rapidly-with-generative-ai) - [Summary](https://x.com/sgillnotes/status/1830660258869715203)
