@@ -17,7 +17,7 @@ tags: ["engineering-blogs"]
 * [How data is powering skills-based hiring on LinkedIn](https://www.linkedin.com/blog/engineering/talent/how-data-is-powering-skills-based-hiring-on-linkedin) - [Summary](https://x.com/sgillnotes/status/1858574030984671497)
 * [Developing Rapidly With Generative AI](https://discord.com/blog/developing-rapidly-with-generative-ai) - [Summary](https://x.com/sgillnotes/status/1830660258869715203)
 * [How We Built Slack AI To Be Secure and Private](https://slack.engineering/how-we-built-slack-ai-to-be-secure-and-private/) - [Summary](https://x.com/sgillnotes/status/1858939233471525344)
-* [Video annotator: a framework for efficiently building video classifiers using vision-language models and active learning](https://netflixtechblog.com/video-annotator-building-video-classifiers-using-vision-language-models-and-active-learning-8ebdda0b2db4)
+* [Video annotator: a framework for efficiently building video classifiers using vision-language models and active learning](https://netflixtechblog.com/video-annotator-building-video-classifiers-using-vision-language-models-and-active-learning-8ebdda0b2db4) - [Summary](https://x.com/sgillnotes/status/1859295880404259259)
 * [How Meta built Threads in 5 months](https://engineering.fb.com/2023/11/06/android/how-meta-built-threads-in-5-months/)
 * [Upgrading Uber’s MySQL Fleet  to version 8.0](https://www.uber.com/en-IN/blog/upgrading-ubers-mysql-fleet/?uclick_id=112f275b-5b0e-43cf-8d19-8333823b3830)
 * [DoorDash Empowers Engineers with Kafka Self-Serve](https://doordash.engineering/2024/08/13/doordash-engineers-with-kafka-self-serve/)
