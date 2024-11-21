@@ -19,7 +19,7 @@ tags: ["engineering-blogs"]
 * [How We Built Slack AI To Be Secure and Private](https://slack.engineering/how-we-built-slack-ai-to-be-secure-and-private/) - [Summary](https://x.com/sgillnotes/status/1858939233471525344)
 * [Video annotator: a framework for efficiently building video classifiers using vision-language models and active learning](https://netflixtechblog.com/video-annotator-building-video-classifiers-using-vision-language-models-and-active-learning-8ebdda0b2db4) - [Summary](https://x.com/sgillnotes/status/1859295880404259259)
 * [How Meta built Threads in 5 months](https://engineering.fb.com/2023/11/06/android/how-meta-built-threads-in-5-months/)
-* [Upgrading Uber’s MySQL Fleet  to version 8.0](https://www.uber.com/en-IN/blog/upgrading-ubers-mysql-fleet/?uclick_id=112f275b-5b0e-43cf-8d19-8333823b3830)
+* [Upgrading Uber’s MySQL Fleet to version 8.0](https://www.uber.com/en-IN/blog/upgrading-ubers-mysql-fleet/?uclick_id=112f275b-5b0e-43cf-8d19-8333823b3830) - [Summary](https://x.com/sgillnotes/status/1859663041195016266)
 * [DoorDash Empowers Engineers with Kafka Self-Serve](https://doordash.engineering/2024/08/13/doordash-engineers-with-kafka-self-serve/)
 * [How DoorDash Standardized and Improved Microservices Caching](https://doordash.engineering/2023/10/19/how-doordash-standardized-and-improved-microservices-caching/)
 * [Implementing end-to-end encryption for Dropbox teams](https://dropbox.tech/security/end-to-end-encryption-for-dropbox-teams) - [Summary](https://x.com/sgillnotes/status/1827413704222371881)
