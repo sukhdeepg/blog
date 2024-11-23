@@ -21,7 +21,7 @@ tags: ["engineering-blogs"]
 * [How Meta built Threads in 5 months](https://engineering.fb.com/2023/11/06/android/how-meta-built-threads-in-5-months/)
 * [Upgrading Uber’s MySQL Fleet to version 8.0](https://www.uber.com/en-IN/blog/upgrading-ubers-mysql-fleet/?uclick_id=112f275b-5b0e-43cf-8d19-8333823b3830) - [Summary](https://x.com/sgillnotes/status/1859663041195016266)
 * [DoorDash Empowers Engineers with Kafka Self-Serve](https://doordash.engineering/2024/08/13/doordash-engineers-with-kafka-self-serve/) - [Summary](https://x.com/sgillnotes/status/1860022714515489200)
-* [How DoorDash Standardized and Improved Microservices Caching](https://doordash.engineering/2023/10/19/how-doordash-standardized-and-improved-microservices-caching/)
+* [How DoorDash Standardized and Improved Microservices Caching](https://doordash.engineering/2023/10/19/how-doordash-standardized-and-improved-microservices-caching/) - [Summary](https://x.com/sgillnotes/status/1860385835184533777)
 * [Implementing end-to-end encryption for Dropbox teams](https://dropbox.tech/security/end-to-end-encryption-for-dropbox-teams) - [Summary](https://x.com/sgillnotes/status/1827413704222371881)
 * [Evolving from Rule-based Classifier: Machine Learning Powered Auto Remediation in Netflix Data Platform](https://netflixtechblog.com/evolving-from-rule-based-classifier-machine-learning-powered-auto-remediation-in-netflix-data-039d5efd115b) - [Summary](https://x.com/sgillnotes/status/1766026815767031997)
 * [Real-time mouse pointers](https://www.canva.dev/blog/engineering/realtime-mouse-pointers/) - [Summary](https://x.com/sgillnotes/status/1832714064650277346)
