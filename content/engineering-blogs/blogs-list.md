@@ -27,3 +27,4 @@ tags: ["engineering-blogs"]
 * [Real-time mouse pointers](https://www.canva.dev/blog/engineering/realtime-mouse-pointers/) - [Summary](https://x.com/sgillnotes/status/1832714064650277346)
 * [Netflix’s Distributed Counter Abstraction](https://netflixtechblog.com/netflixs-distributed-counter-abstraction-8d0c45eb66b2)
 * [Sequence learning: A paradigm shift for personalized ads recommendations](https://engineering.fb.com/2024/11/19/data-infrastructure/sequence-learning-personalized-ads-recommendations/)
+* [Behind the platform: the journey to create the LinkedIn GenAI application tech stack](https://www.linkedin.com/blog/engineering/generative-ai/behind-the-platform-the-journey-to-create-the-linkedin-genai-application-tech-stack)
