@@ -26,5 +26,5 @@ tags: ["engineering-blogs"]
 * [Evolving from Rule-based Classifier: Machine Learning Powered Auto Remediation in Netflix Data Platform](https://netflixtechblog.com/evolving-from-rule-based-classifier-machine-learning-powered-auto-remediation-in-netflix-data-039d5efd115b) - [Summary](https://x.com/sgillnotes/status/1766026815767031997)
 * [Real-time mouse pointers](https://www.canva.dev/blog/engineering/realtime-mouse-pointers/) - [Summary](https://x.com/sgillnotes/status/1832714064650277346)
 * [Netflix’s Distributed Counter Abstraction](https://netflixtechblog.com/netflixs-distributed-counter-abstraction-8d0c45eb66b2)
-* [Sequence learning: A paradigm shift for personalized ads recommendations](https://engineering.fb.com/2024/11/19/data-infrastructure/sequence-learning-personalized-ads-recommendations/)
+* [Sequence learning: A paradigm shift for personalized ads recommendations](https://engineering.fb.com/2024/11/19/data-infrastructure/sequence-learning-personalized-ads-recommendations/) - [Summary](https://x.com/sgillnotes/status/1860385835184533777)
 * [Behind the platform: the journey to create the LinkedIn GenAI application tech stack](https://www.linkedin.com/blog/engineering/generative-ai/behind-the-platform-the-journey-to-create-the-linkedin-genai-application-tech-stack)
